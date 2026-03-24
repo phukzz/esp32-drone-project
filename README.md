@@ -1,7 +1,5 @@
 # esp32-drone-project
 
-# ESP32 Drone Project 🚁
-
 ## 📌 Overview
 
 This project documents the assembly and testing of an ESP32-based drone using the B-CUBE ESP32-S2 Drone V2.0 kit.
