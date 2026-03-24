@@ -70,5 +70,4 @@ More details: docs/testing.md
 
 ## 🔗 References
 
-* ESP-Drone GitHub
-* Espressif documentation
+* Espressif documentation: https://docs.espressif.com/projects/espressif-esp-drone/en/latest/gettingstarted.html#pc-cfclient-guide
