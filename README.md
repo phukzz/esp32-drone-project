@@ -14,16 +14,14 @@ The goal is to understand:
 
 ## 🧩 Hardware Used
 
-* B-CUBE ESP32-S2 Drone V2.0
+* B-CUBE ESP32-S2 Drone V2.0 kit
 * 1S LiPo Battery (3.7V)
-* Coreless DC Motors (CW & CCW)
 
 ---
 
 ## ⚙️ Assembly Process
 
-Detailed steps are in:
-👉 docs/assembly.md
+Detailed steps are in: docs/assembly.md
 
 ---
 
@@ -32,8 +30,7 @@ Detailed steps are in:
 * M1 & M3: Green motors (Red + Blue)
 * M2 & M4: Blue motors (White + Black)
 
-Full wiring guide:
-👉 docs/wiring.md
+Full wiring guide: docs/wiring.md
 
 ---
 
@@ -43,14 +40,7 @@ Full wiring guide:
 * IMU sensor validation
 * Flight test results
 
-More details:
-👉 docs/testing.md
-
----
-
-## 📸 Images
-
-![Drone Top](images/drone_top.jpg)
+More details: docs/testing.md
 
 ---
 
